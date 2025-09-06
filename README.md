@@ -81,15 +81,15 @@ Run the script: python rental_analysis.py
 
 
 
-### Identified key predictors of rental duration using Lasso feature selection.
+ Identified key predictors of rental duration using Lasso feature selection.
 
 
 
-### Random Forest with hyperparameter tuning achieved the best performance (lowest MSE, highest R²).
+ Random Forest with hyperparameter tuning achieved the best performance (lowest MSE, highest R²).
 
 
 
-### Visualizations revealed insights into rental patterns by movie rating and special features.
+ Visualizations revealed insights into rental patterns by movie rating and special features.
 
 ## Future Work
 
